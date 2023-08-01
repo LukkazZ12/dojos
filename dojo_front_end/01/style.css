@@ -1,0 +1,10 @@
+div.square {
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+    background: #dd6b4d;
+}
+body {
+    margin: 0;
+    background: #f5d6b4;
+}

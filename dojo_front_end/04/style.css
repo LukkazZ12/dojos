@@ -1,0 +1,17 @@
+div.square {
+    width: 100px;
+    height: 100px;
+    background: #dd6b4d;
+}
+
+.quadradao {
+    margin: 50%;
+    height: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: #998235;
+}
+
+body {
+    background-color: #f3ac3c;
+}

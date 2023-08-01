@@ -1,0 +1,16 @@
+div.square {
+    width: 200px;
+    height: 200px;
+    margin: 100px;
+    background: #fdc57b;
+}
+
+.bodyzinho {
+    display: flex;
+    justify-content: space-between;
+    background-color: #62374e;
+}
+
+body{
+    margin: 0px;
+}
